@@ -48,10 +48,10 @@ Genzconnect is an integrated platform designed to streamline and enhance the rem
 
 ## Contributors
 
-- **Karan Dixit:** Lead Developer
-- **Kushal Sharma:** Backend Developer
-- **Sanskriti Gupta:** Frontend Developer & UI/UX Designer
-- **Rashi Garg:** Support & Documentation
+- **Karan Dixit:** Lead Developer &  Backend Developer
+- **Kushal Sharma:**Frontend Developer & UI/UX Designer
+- **Sanskriti Gupta:** Support 
+- **Rashi Garg:** Documentation
 
 ## License
 
